@@ -9,7 +9,7 @@ Macros to convert between Unicode and ANSI in Bangla in [LibreOffice](https://ww
 
 ## Usage
 1. Download the repo
-2. Run the script (Root permission required) (
+2. Run the script (Root permission required) 
 
 Now try using it
 1. Open a document with LibreOffice
